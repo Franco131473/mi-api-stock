@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "l4TbArpq/m3aUwyDeRt4b0YfbcxBHQqrBuPQl9ahlBU=",
+  "Source": "MiApi",
+  "BasePath": "_content/MiApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MiApi\\wwwroot",
+      "Source": "MiApi",
+      "ContentRoot": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\wwwroot\\",
+      "BasePath": "_content/MiApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\obj\\Debug\\net9.0\\compressed\\47dioh2w3q-mmnrqu40qv.gz",
+      "SourceId": "MiApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MiApi",
+      "RelativePath": "index#[.{fingerprint=mmnrqu40qv}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "w9pf5wdh9h",
+      "Integrity": "tOLCWYJO6UkU7P83h3F5WkUN8r+5og4tklVvm+EJ1qE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\wwwroot\\index.html",
+      "SourceId": "MiApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\wwwroot\\",
+      "BasePath": "_content/MiApi",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mmnrqu40qv",
+      "Integrity": "on3A6dCDzv+ld+tQsJmslzEJyQB6aNgP/tqUP6R0lL4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\obj\\Debug\\net9.0\\compressed\\47dioh2w3q-mmnrqu40qv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001243781095"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "803"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tOLCWYJO6UkU7P83h3F5WkUN8r+5og4tklVvm+EJ1qE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 11:53:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"on3A6dCDzv+ld+tQsJmslzEJyQB6aNgP/tqUP6R0lL4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-on3A6dCDzv+ld+tQsJmslzEJyQB6aNgP/tqUP6R0lL4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1901"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"on3A6dCDzv+ld+tQsJmslzEJyQB6aNgP/tqUP6R0lL4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 11:53:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-on3A6dCDzv+ld+tQsJmslzEJyQB6aNgP/tqUP6R0lL4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\obj\\Debug\\net9.0\\compressed\\47dioh2w3q-mmnrqu40qv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tOLCWYJO6UkU7P83h3F5WkUN8r+5og4tklVvm+EJ1qE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 11:53:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tOLCWYJO6UkU7P83h3F5WkUN8r+5og4tklVvm+EJ1qE="
+        }
+      ]
+    },
+    {
+      "Route": "index.mmnrqu40qv.html",
+      "AssetFile": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\obj\\Debug\\net9.0\\compressed\\47dioh2w3q-mmnrqu40qv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001243781095"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "803"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tOLCWYJO6UkU7P83h3F5WkUN8r+5og4tklVvm+EJ1qE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 11:53:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"on3A6dCDzv+ld+tQsJmslzEJyQB6aNgP/tqUP6R0lL4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mmnrqu40qv"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-on3A6dCDzv+ld+tQsJmslzEJyQB6aNgP/tqUP6R0lL4="
+        }
+      ]
+    },
+    {
+      "Route": "index.mmnrqu40qv.html",
+      "AssetFile": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1901"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"on3A6dCDzv+ld+tQsJmslzEJyQB6aNgP/tqUP6R0lL4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 11:53:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mmnrqu40qv"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-on3A6dCDzv+ld+tQsJmslzEJyQB6aNgP/tqUP6R0lL4="
+        }
+      ]
+    },
+    {
+      "Route": "index.mmnrqu40qv.html.gz",
+      "AssetFile": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\obj\\Debug\\net9.0\\compressed\\47dioh2w3q-mmnrqu40qv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tOLCWYJO6UkU7P83h3F5WkUN8r+5og4tklVvm+EJ1qE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 11:53:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mmnrqu40qv"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tOLCWYJO6UkU7P83h3F5WkUN8r+5og4tklVvm+EJ1qE="
+        }
+      ]
+    }
+  ]
+}
