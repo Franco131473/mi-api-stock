@@ -80,5 +80,5 @@ C:\Users\Netbook\Desktop\Web\MiApi\obj\Debug\net9.0\MiApi.pdb
 C:\Users\Netbook\Desktop\Web\MiApi\obj\Debug\net9.0\MiApi.genruntimeconfig.cache
 C:\Users\Netbook\Desktop\Web\MiApi\obj\Debug\net9.0\ref\MiApi.dll
 C:\Users\Netbook\Desktop\Web\MiApi\bin\Debug\net9.0\MiApi.staticwebassets.runtime.json
-C:\Users\Netbook\Desktop\Web\MiApi\obj\Debug\net9.0\compressed\47dioh2w3q-mmnrqu40qv.gz
 C:\Users\Netbook\Desktop\Web\MiApi\obj\Debug\net9.0\MiApi.sourcelink.json
+C:\Users\Netbook\Desktop\Web\MiApi\obj\Debug\net9.0\compressed\47dioh2w3q-k15bgll8hz.gz

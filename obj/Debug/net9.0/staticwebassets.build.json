@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "y7YPculQkUp9yqAfaxdBMczYWu3pu0vvUh6MzcGZo2w=",
+  "Hash": "Jk8H8j7dw7RGdiAz6bJO7R9ihdwmTvA/DCGfGaiJrJA=",
   "Source": "MiApi",
   "BasePath": "_content/MiApi",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\obj\\Debug\\net9.0\\compressed\\47dioh2w3q-mmnrqu40qv.gz",
+      "Identity": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\obj\\Debug\\net9.0\\compressed\\47dioh2w3q-k15bgll8hz.gz",
       "SourceId": "MiApi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MiApi",
-      "RelativePath": "index#[.{fingerprint=mmnrqu40qv}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=k15bgll8hz}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -31,8 +31,8 @@
       "RelatedAsset": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "w9pf5wdh9h",
-      "Integrity": "tOLCWYJO6UkU7P83h3F5WkUN8r+5og4tklVvm+EJ1qE=",
+      "Fingerprint": "lc701c3fxg",
+      "Integrity": "NWb9R2OMYJBNAZpDHWtmYfoGanzFgjKqz8efdI9A1mE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\wwwroot\\index.html"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mmnrqu40qv",
-      "Integrity": "on3A6dCDzv+ld+tQsJmslzEJyQB6aNgP/tqUP6R0lL4=",
+      "Fingerprint": "k15bgll8hz",
+      "Integrity": "SMLMuVthCHoKjR4aw70xVXt2mGL0z02jLA18bDSBRnQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -62,12 +62,12 @@
   "Endpoints": [
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\obj\\Debug\\net9.0\\compressed\\47dioh2w3q-mmnrqu40qv.gz",
+      "AssetFile": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\obj\\Debug\\net9.0\\compressed\\47dioh2w3q-k15bgll8hz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001243781095"
+          "Quality": "0.001937984496"
         }
       ],
       "ResponseHeaders": [
@@ -77,15 +77,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "803"
+          "Value": "515"
         },
         {
           "Name": "ETag",
-          "Value": "\"tOLCWYJO6UkU7P83h3F5WkUN8r+5og4tklVvm+EJ1qE=\""
+          "Value": "\"NWb9R2OMYJBNAZpDHWtmYfoGanzFgjKqz8efdI9A1mE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Apr 2026 12:33:58 GMT"
+          "Value": "Thu, 23 Apr 2026 14:10:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -105,13 +105,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"on3A6dCDzv+ld+tQsJmslzEJyQB6aNgP/tqUP6R0lL4=\""
+          "Value": "W/\"SMLMuVthCHoKjR4aw70xVXt2mGL0z02jLA18bDSBRnQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-on3A6dCDzv+ld+tQsJmslzEJyQB6aNgP/tqUP6R0lL4="
+          "Value": "sha256-SMLMuVthCHoKjR4aw70xVXt2mGL0z02jLA18bDSBRnQ="
         }
       ]
     },
@@ -126,7 +126,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1901"
+          "Value": "1095"
         },
         {
           "Name": "Content-Type",
@@ -134,11 +134,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"on3A6dCDzv+ld+tQsJmslzEJyQB6aNgP/tqUP6R0lL4=\""
+          "Value": "\"SMLMuVthCHoKjR4aw70xVXt2mGL0z02jLA18bDSBRnQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Apr 2026 12:33:58 GMT"
+          "Value": "Thu, 23 Apr 2026 14:10:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -148,13 +148,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-on3A6dCDzv+ld+tQsJmslzEJyQB6aNgP/tqUP6R0lL4="
+          "Value": "sha256-SMLMuVthCHoKjR4aw70xVXt2mGL0z02jLA18bDSBRnQ="
         }
       ]
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\obj\\Debug\\net9.0\\compressed\\47dioh2w3q-mmnrqu40qv.gz",
+      "AssetFile": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\obj\\Debug\\net9.0\\compressed\\47dioh2w3q-k15bgll8hz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -163,7 +163,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "803"
+          "Value": "515"
         },
         {
           "Name": "Content-Type",
@@ -171,11 +171,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tOLCWYJO6UkU7P83h3F5WkUN8r+5og4tklVvm+EJ1qE=\""
+          "Value": "\"NWb9R2OMYJBNAZpDHWtmYfoGanzFgjKqz8efdI9A1mE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Apr 2026 12:33:58 GMT"
+          "Value": "Thu, 23 Apr 2026 14:10:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -193,18 +193,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tOLCWYJO6UkU7P83h3F5WkUN8r+5og4tklVvm+EJ1qE="
+          "Value": "sha256-NWb9R2OMYJBNAZpDHWtmYfoGanzFgjKqz8efdI9A1mE="
         }
       ]
     },
     {
-      "Route": "index.mmnrqu40qv.html",
-      "AssetFile": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\obj\\Debug\\net9.0\\compressed\\47dioh2w3q-mmnrqu40qv.gz",
+      "Route": "index.k15bgll8hz.html",
+      "AssetFile": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\obj\\Debug\\net9.0\\compressed\\47dioh2w3q-k15bgll8hz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001243781095"
+          "Quality": "0.001937984496"
         }
       ],
       "ResponseHeaders": [
@@ -214,15 +214,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "803"
+          "Value": "515"
         },
         {
           "Name": "ETag",
-          "Value": "\"tOLCWYJO6UkU7P83h3F5WkUN8r+5og4tklVvm+EJ1qE=\""
+          "Value": "\"NWb9R2OMYJBNAZpDHWtmYfoGanzFgjKqz8efdI9A1mE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Apr 2026 12:33:58 GMT"
+          "Value": "Thu, 23 Apr 2026 14:10:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -242,13 +242,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"on3A6dCDzv+ld+tQsJmslzEJyQB6aNgP/tqUP6R0lL4=\""
+          "Value": "W/\"SMLMuVthCHoKjR4aw70xVXt2mGL0z02jLA18bDSBRnQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mmnrqu40qv"
+          "Value": "k15bgll8hz"
         },
         {
           "Name": "label",
@@ -256,12 +256,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-on3A6dCDzv+ld+tQsJmslzEJyQB6aNgP/tqUP6R0lL4="
+          "Value": "sha256-SMLMuVthCHoKjR4aw70xVXt2mGL0z02jLA18bDSBRnQ="
         }
       ]
     },
     {
-      "Route": "index.mmnrqu40qv.html",
+      "Route": "index.k15bgll8hz.html",
       "AssetFile": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -271,7 +271,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1901"
+          "Value": "1095"
         },
         {
           "Name": "Content-Type",
@@ -279,11 +279,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"on3A6dCDzv+ld+tQsJmslzEJyQB6aNgP/tqUP6R0lL4=\""
+          "Value": "\"SMLMuVthCHoKjR4aw70xVXt2mGL0z02jLA18bDSBRnQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Apr 2026 12:33:58 GMT"
+          "Value": "Thu, 23 Apr 2026 14:10:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -293,7 +293,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mmnrqu40qv"
+          "Value": "k15bgll8hz"
         },
         {
           "Name": "label",
@@ -301,13 +301,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-on3A6dCDzv+ld+tQsJmslzEJyQB6aNgP/tqUP6R0lL4="
+          "Value": "sha256-SMLMuVthCHoKjR4aw70xVXt2mGL0z02jLA18bDSBRnQ="
         }
       ]
     },
     {
-      "Route": "index.mmnrqu40qv.html.gz",
-      "AssetFile": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\obj\\Debug\\net9.0\\compressed\\47dioh2w3q-mmnrqu40qv.gz",
+      "Route": "index.k15bgll8hz.html.gz",
+      "AssetFile": "C:\\Users\\Netbook\\Desktop\\Web\\MiApi\\obj\\Debug\\net9.0\\compressed\\47dioh2w3q-k15bgll8hz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -316,7 +316,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "803"
+          "Value": "515"
         },
         {
           "Name": "Content-Type",
@@ -324,11 +324,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tOLCWYJO6UkU7P83h3F5WkUN8r+5og4tklVvm+EJ1qE=\""
+          "Value": "\"NWb9R2OMYJBNAZpDHWtmYfoGanzFgjKqz8efdI9A1mE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Apr 2026 12:33:58 GMT"
+          "Value": "Thu, 23 Apr 2026 14:10:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -346,7 +346,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mmnrqu40qv"
+          "Value": "k15bgll8hz"
         },
         {
           "Name": "label",
@@ -354,7 +354,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-tOLCWYJO6UkU7P83h3F5WkUN8r+5og4tklVvm+EJ1qE="
+          "Value": "sha256-NWb9R2OMYJBNAZpDHWtmYfoGanzFgjKqz8efdI9A1mE="
         }
       ]
     }
